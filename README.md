@@ -7,4 +7,5 @@ This is a reminder based on Rainmeter displaying on your PC as following figure 
 ## How to use
 
 - Download Rainmeter (https://www.rainmeter.net/)
-- Github clone 
+- Git clone under skin folder and updata all skins
+- Activate the skin and edit content
